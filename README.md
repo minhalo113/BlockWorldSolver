@@ -12,7 +12,7 @@ This Python program solves the Block World Problem using the A* algorithm. The B
 
 ## How to run
 
-- The program provides three different predicates: `clear`, `on`, and `on_table`. `Clear` is a list of characters representing the blocks that are clear on top, `on` is a list of strings representing the blocks that are positioned on another block, and `on_table` is a list of characters representing the blocks that are on the table.
+- The program provides three different predicates: `clear`, `on`, and `on_table`. `clear` is a list of characters representing the blocks that are clear on top, `on` is a list of strings representing the blocks that are positioned on another block, and `on_table` is a list of characters representing the blocks that are on the table.
 - For example:
 - ![image](https://github.com/minhalo113/BlockWorldSolver/assets/115437688/8756ccb1-3c2b-4d86-b701-a41da7ccadc4)
   
